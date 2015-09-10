@@ -18,16 +18,18 @@
 
 	<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
 	<script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+
+	<!-- UCF Header Bar -->
+	<script type="text/javascript" id="ucfhb-script" src="//universityheader.ucf.edu/bar/js/university-header.js"></script>
 </head>
 
 <body>
-
+	
 	<div class="site-wrapper">
 
-		<div class="site-wrapper-inner">
+		<div class="site-wrapper-inner cover-background">
 
 			<div class="cover-container">
-
 				<div class="masthead clearfix">
 					<div class="inner">
 						<h3 class="masthead-brand">Cover</h3>
@@ -57,6 +59,55 @@
 
 		</div>
 
+	</div>
+
+	<div class="site-wrapper">
+		<div class="site-wrapper-inner main-content">
+					<p>
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius sollicitudin metus, 
+						eu finibus ex viverra et. Mauris volutpat nisl nulla, ut tempus mi convallis non. Sed eget 
+						turpis mollis, pharetra nulla et, ullamcorper neque. Curabitur pulvinar nibh sit amet lorem 
+						scelerisque fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed 
+						hendrerit lacus, at porta lectus. Nulla facilisi. Etiam egestas semper egestas.
+					</p>
+					<p>
+						Pellentesque eget accumsan dui. Vivamus mollis metus eu pulvinar dignissim. Cras dapibus 
+						sollicitudin elit, in scelerisque velit pretium ac. Morbi lacinia urna nec dui dapibus 
+						sodales. Vivamus quis libero venenatis felis efficitur maximus. In hac habitasse platea 
+						dictumst. Integer sagittis erat ex, in eleifend ante vulputate tempor. Etiam id magna at 
+						lorem egestas eleifend ornare ac mauris. Proin egestas dapibus lectus, ac dictum leo posuere 
+						malesuada. Cras nunc lorem, tempor quis condimentum at, dapibus vitae massa. Nunc volutpat, 
+						quam in facilisis pretium, augue magna iaculis dolor, pharetra varius dui odio sit amet augue.
+					</p>
+					<p>
+						Praesent sed nibh vitae lectus dapibus consectetur a id elit. Morbi nisi sem, porta et tincidunt a, 
+						tempor eget elit. Donec porttitor, turpis id efficitur lobortis, lorem erat tempor felis, sed mattis 
+						nisi dui condimentum justo. Donec imperdiet pellentesque velit sed vulputate. Praesent at sagittis 
+						orci. Donec vel diam quis tortor maximus volutpat. Maecenas vitae elementum dolor. Pellentesque 
+						habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce viverra velit 
+						id enim eleifend facilisis vitae a orci. Fusce volutpat sapien et neque auctor, non eleifend nulla 
+						gravida. Nam eget velit nec nisi ultrices finibus.
+					</p>
+					<p>
+						Mauris et ultricies sapien. In eleifend dignissim nulla in congue. Nunc turpis nisl, vulputate quis 
+						odio eget, convallis euismod justo. Pellentesque rhoncus vel ante sit amet posuere. Ut tristique varius 
+						tortor, a consequat dolor fermentum sed. Phasellus malesuada ante vitae mauris facilisis, eget facilisis 
+						nisi lacinia. Fusce mollis massa sed sem sodales, lobortis pharetra risus luctus. Vestibulum ultricies 
+						leo hendrerit enim fermentum, ac feugiat mi aliquet. Praesent pharetra, libero quis pellentesque accumsan, 
+						ipsum libero dignissim sem, at gravida lectus purus non urna. Fusce quis mauris felis. Fusce laoreet nisl 
+						magna, porta efficitur ligula porta a.
+					</p>
+					<p>
+						Suspendisse scelerisque consectetur lectus, eu mattis purus posuere at. Suspendisse ultrices, est eu gravida 
+						auctor, magna dolor lacinia massa, malesuada accumsan augue purus id nisl. Maecenas a mauris sed velit 
+						interdum luctus. Nam tincidunt lectus vel felis molestie euismod. Donec eget urna eget elit efficitur 
+						congue eu et diam. Aliquam a ante ac velit gravida ullamcorper ut eget diam. In volutpat iaculis nisl, et 
+						ornare augue porta eu. Maecenas quam ante, tempor sed lacinia vel, interdum sed erat. Vivamus non diam nunc. 
+						Nulla viverra purus in libero ornare, id bibendum risus pretium. Phasellus eget hendrerit velit, at mollis 
+						tortor. Sed eget mi eu nunc laoreet blandit. Aliquam pellentesque arcu quis felis feugiat feugiat. Quisque 
+						tincidunt massa eget faucibus suscipit.
+					</p>
+				</div>
 	</div>
 
 <!-- Bootstrap core JavaScript

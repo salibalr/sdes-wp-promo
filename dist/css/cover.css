@@ -27,7 +27,9 @@ a:hover {
 html,
 body {
 	height: 100%;
-	background-color: #333;
+	background: url('http://it.dev.sdes.ucf.edu/testing/wp-promo/images/bg.jpg');
+	background-size:100%;
+	background-repeat:no-repeat;
 }
 body {
 	color: #fff;
@@ -127,11 +129,11 @@ body {
 @media (min-width: 40em) {
 	/* Pull out the header and footer */
 	.masthead {
-		position: fixed;
-		top: 0;
+		position: absolute;
+		top: 50;
 	}
 	.mastfoot {
-		position: fixed;
+		position: absolute;
 		bottom: 0;
 	}
 	/* Start the vertical centering */
