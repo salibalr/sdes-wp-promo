@@ -23,92 +23,285 @@
 	<script type="text/javascript" id="ucfhb-script" src="//universityheader.ucf.edu/bar/js/university-header.js"></script>
 </head>
 
-<body>
-	
-	<div class="site-wrapper">
-
-		<div class="site-wrapper-inner cover-background">
-
-			<div class="cover-container">
-				<div class="masthead clearfix">
-					<div class="inner">
-						<h3 class="masthead-brand">Cover</h3>
-						<nav class="nav nav-masthead">
-							<a class="nav-link active" href="#">Home</a>
-							<a class="nav-link" href="#">Features</a>
-							<a class="nav-link" href="#">Contact</a>
-						</nav>
+<body>	
+	<div class="cover">
+		<div class="cover-wrapper">
+			<div class="cover-wrapper-inner">
+				<div class="cover-container">
+					<div class="container inner-cover">
+						<h1>UCF Lives Here.</h1>
+						<hr />
+						<div class="blank-md"></div>
+						<div class="row">
+							<div class="col-sm-4">
+								<h2>Action</h2>
+								<p>
+									This is an action.
+								</p>
+							</div>
+							<div class="col-sm-4">
+								<h2>Apply</h2>
+								<p style="color:#ffcc00;">
+									Space is limited!
+								</p>
+							</div>
+							<div class="col-sm-4">
+								<h2>Action</h2>
+								<p>
+									This is an action.
+								</p>
+							</div>
+						</div>
 					</div>
 				</div>
-
-				<div class="inner cover">
-					<h1 class="cover-heading">Cover your page.</h1>
-					<p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
+			</div>
+		</div>
+	</div>
+	<div class="more">
+		<div class="container text-center">
+			<h2><a href="#content">More &#9660;</a></h2>
+		</div>
+	</div>
+	<div id="content" class="yellow">
+		<div class="container">
+			<div class="blank-sm"></div>
+			<div class="row">
+				
+				<div class="col-sm-5" >
+					<h1 style="font-family:'Gotham Black'; text-transform:uppercase; font-size:40pt;">Did you Know</h1>
+				</div>
+				<div class="col-sm-7">
 					<p class="lead">
-						<a href="#" class="btn btn-lg btn-secondary">Learn more</a>
+						Students who have lived with UCF Housing for two years or more are <strong>20% more likely to graduate</strong>?
 					</p>
 				</div>
+			</div>
+		</div>
+	</div>
+	<!--<div class="container-large">
+		<div class="row">
+			<div class="card-group">
+				<div class="card">
+					<img class="card-img-top" src="http://placehold.it/380x360" alt="Card image cap">
+						<div class="card-block">
+							<h4 class="card-title">Apollo</h4>
+						</div>
+				</div>
+				<div class="card">
+					<img class="card-img-top" src="http://placehold.it/380x360" alt="Card image cap">
+						<div class="card-block">
+							<h4 class="card-title">Libra</h4>
+						</div>
+				</div>
+				<div class="card">
+					<img class="card-img-top" src="http://placehold.it/380x360" alt="Card image cap">
+						<div class="card-block">
+							<h4 class="card-title">Lake Claire</h4>
+						</div>
+				</div>
+				<div class="card">
+					<img class="card-img-top" src="http://placehold.it/380x360" alt="Card image cap">
+						<div class="card-block">
+							<h4 class="card-title">Hercules</h4>
+						</div>
+				</div>
+				<div class="card">
+					<img class="card-img-top" src="http://placehold.it/380x360" alt="Card image cap">
+						<div class="card-block">
+							<h4 class="card-title">Neptune</h4>
+						</div>
+				</div>
+			</div>
+			<div class="card-group">
+				<div class="card">
+					<img class="card-img-top" src="http://placehold.it/380x360" alt="Card image cap">
+						<div class="card-block">
+							<h4 class="card-title">Nike</h4>
+						</div>
+				</div>
+				<div class="card">
+					<img class="card-img-top" src="http://placehold.it/380x360" alt="Card image cap">
+						<div class="card-block">
+							<h4 class="card-title">Northview</h4>
+						</div>
+				</div>
+				<div class="card">
+					<img class="card-img-top" src="http://placehold.it/380x360" alt="Card image cap">
+						<div class="card-block">
+							<h4 class="card-title">Rosen</h4>
+						</div>
+				</div>
+				<div class="card">
+					<img class="card-img-top" src="http://placehold.it/380x360" alt="Card image cap">
+						<div class="card-block">
+							<h4 class="card-title">Towers</h4>
+						</div>
+				</div>
+				<div class="card">
+					<img class="card-img-top" src="http://placehold.it/380x360" alt="Card image cap">
+						<div class="card-block">
+							<h4 class="card-title">LLCs</h4>
+						</div>
+				</div>
+			</div>
+		</div>
+	</div>-->
+	<div class="blank-sm"></div>
+	<div class="container">
+		<p class="lead">
+			This mission of the Department of Housing and Residence Life is to provide students living in university 
+			owned and affiliated housing with a safe and secure environment that is conducive to academic achievement. 
+			In addition to providing supervision and resident services in the living units, the department promotes the 
+			personal growth and development of each resident through intentional programming efforts. In partnership 
+			with other units within the Division of Student Development and Enrollment Services and the larger university 
+			community, the department strives to foster scholarship as a fundamental purpose, instills a sense of 
+			community, and supports individual integrity and excellence.
+		</p>
+		<p>
+			The Department of Housing and Residence Life desires to create a community where each person feels welcome, 
+			accepted and valued for his or her own individual contribution. This will only be achieved through the 
+			desire to understand ourselves better as we also seek to understand our neighbors in the UCF community. The 
+			Department of Housing and Residence Life will provide programs and opportunities for you to share your 
+			experiences, values, culture and beliefs and the opportunity to hear the same of others. We remind you that 
+			we are all in community together and we wish for you to identify biases, assumptions, ridicule and 
+			prejudices as they occur and readily challenge these statements that may be obstacles in the way of true 
+			community. We welcome you and all the contributions that you will bring to campus housing. We know your 
+			presence will expand our horizons and we anticipate our community expanding your comfort zones.
+		</p>
 
-				<div class="mastfoot">
-					<div class="inner">
-						<p>Cover template for <a href="http://getbootstrap.com">Bootstrap</a>, by <a href="https://twitter.com/mdo">@mdo</a>.</p>
+	</div>
+	<div class="something">
+		<div class="something-inner">
+			<div class="container">
+				<h2 style="font-family:'Gotham Black'; text-transform:uppercase; font-size:40pt;">Connect with Us on Social Media</h2>
+			</div>
+		</div>
+	</div>
+	</div>
+	<div class="blank-sm"></div>
+	<div class="container">
+		<div class="main-content">
+			
+			<div class="card-columns">
+				<div class="card">
+				<img class="card-img-top" src="http://placehold.it/360x160" alt="Card image cap">
+					<div class="card-block">
+						<h4 class="card-title">Card title that wraps to a new line</h4>
+						<p class="card-text">
+							This is a longer card with supporting text below as a natural lead-in to additional content. 
+							This content is a little bit longer.
+						</p>
 					</div>
 				</div>
-
+				<div class="card card-block">
+					<blockquote class="card-blockquote">
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+						<footer>
+							<small class="text-muted">
+								Someone famous in <cite title="Source Title">Source Title</cite>
+							</small>
+						</footer>
+					</blockquote>
+				</div>
+				<div class="card card-block text-right">
+					<blockquote class="card-blockquote">
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.
+						</p>
+						<footer>
+							<small class="text-muted">
+								Someone famous in <cite title="Source Title">Source Title</cite>
+							</small>
+						</footer>
+					</blockquote>
+				</div>
+				<div class="card">
+				<img class="card-img-top" src="http://placehold.it/360x160" alt="Card image cap">
+					<div class="card-block">
+						<h4 class="card-title">Card title</h4>
+						<p class="card-text">
+							This card has supporting text below as a natural lead-in to additional content.
+						</p>
+						<p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+					</div>
+				</div>
+				<div class="card card-block card-inverse card-primary text-center">
+					<blockquote class="card-blockquote">
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat.</p>
+						<footer>
+							<small>
+								Someone famous in <cite title="Source Title">Source Title</cite>
+							</small>
+						</footer>
+					</blockquote>
+				</div>
+				<div class="card card-block text-center">
+					<h4 class="card-title">Card title</h4>
+					<p class="card-text">
+						This card has supporting text below as a natural lead-in to additional content.
+					</p>
+					<p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+				</div>
+				<div class="card" style="border:none;">
+					<blockquote class="twitter-tweet" lang="en">
+						<p lang="en" dir="ltr">
+							<a href="https://twitter.com/hashtag/Overusing?src=hash">#Overusing</a> 
+							<a href="https://twitter.com/hashtag/hashtags?src=hash">#hashtags</a> can be 
+							<a href="https://twitter.com/hashtag/super?src=hash">#super</a> 
+							<a href="https://twitter.com/hashtag/annoying?src=hash">#annoying</a> 😩 
+							Sticking to one or two per Tweet is a good call 😀</p>&mdash; Twitter Support (@Support) 
+							<a href="https://twitter.com/Support/status/613308058094039043">June 23, 2015</a>
+					</blockquote>
+					<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+				</div>
+				<div class="card card-block text-right">
+					<blockquote class="card-blockquote">
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.
+						</p>
+						<footer>
+							<small class="text-muted">
+								Someone famous in <cite title="Source Title">Source Title</cite>
+							</small>
+						</footer>
+					</blockquote>
+				</div>
+				<div class="card card-block">
+					<h4 class="card-title">Card title</h4>
+					<p class="card-text">
+						This is a wider card with supporting text below as a natural lead-in to additional content. This 
+						card has even longer content than the first to show that equal height action.
+					</p>
+					<p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+				</div>
 			</div>
 
 		</div>
-
 	</div>
 
-	<div class="site-wrapper">
-		<div class="site-wrapper-inner main-content">
-					<p>
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius sollicitudin metus, 
-						eu finibus ex viverra et. Mauris volutpat nisl nulla, ut tempus mi convallis non. Sed eget 
-						turpis mollis, pharetra nulla et, ullamcorper neque. Curabitur pulvinar nibh sit amet lorem 
-						scelerisque fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed 
-						hendrerit lacus, at porta lectus. Nulla facilisi. Etiam egestas semper egestas.
-					</p>
-					<p>
-						Pellentesque eget accumsan dui. Vivamus mollis metus eu pulvinar dignissim. Cras dapibus 
-						sollicitudin elit, in scelerisque velit pretium ac. Morbi lacinia urna nec dui dapibus 
-						sodales. Vivamus quis libero venenatis felis efficitur maximus. In hac habitasse platea 
-						dictumst. Integer sagittis erat ex, in eleifend ante vulputate tempor. Etiam id magna at 
-						lorem egestas eleifend ornare ac mauris. Proin egestas dapibus lectus, ac dictum leo posuere 
-						malesuada. Cras nunc lorem, tempor quis condimentum at, dapibus vitae massa. Nunc volutpat, 
-						quam in facilisis pretium, augue magna iaculis dolor, pharetra varius dui odio sit amet augue.
-					</p>
-					<p>
-						Praesent sed nibh vitae lectus dapibus consectetur a id elit. Morbi nisi sem, porta et tincidunt a, 
-						tempor eget elit. Donec porttitor, turpis id efficitur lobortis, lorem erat tempor felis, sed mattis 
-						nisi dui condimentum justo. Donec imperdiet pellentesque velit sed vulputate. Praesent at sagittis 
-						orci. Donec vel diam quis tortor maximus volutpat. Maecenas vitae elementum dolor. Pellentesque 
-						habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce viverra velit 
-						id enim eleifend facilisis vitae a orci. Fusce volutpat sapien et neque auctor, non eleifend nulla 
-						gravida. Nam eget velit nec nisi ultrices finibus.
-					</p>
-					<p>
-						Mauris et ultricies sapien. In eleifend dignissim nulla in congue. Nunc turpis nisl, vulputate quis 
-						odio eget, convallis euismod justo. Pellentesque rhoncus vel ante sit amet posuere. Ut tristique varius 
-						tortor, a consequat dolor fermentum sed. Phasellus malesuada ante vitae mauris facilisis, eget facilisis 
-						nisi lacinia. Fusce mollis massa sed sem sodales, lobortis pharetra risus luctus. Vestibulum ultricies 
-						leo hendrerit enim fermentum, ac feugiat mi aliquet. Praesent pharetra, libero quis pellentesque accumsan, 
-						ipsum libero dignissim sem, at gravida lectus purus non urna. Fusce quis mauris felis. Fusce laoreet nisl 
-						magna, porta efficitur ligula porta a.
-					</p>
-					<p>
-						Suspendisse scelerisque consectetur lectus, eu mattis purus posuere at. Suspendisse ultrices, est eu gravida 
-						auctor, magna dolor lacinia massa, malesuada accumsan augue purus id nisl. Maecenas a mauris sed velit 
-						interdum luctus. Nam tincidunt lectus vel felis molestie euismod. Donec eget urna eget elit efficitur 
-						congue eu et diam. Aliquam a ante ac velit gravida ullamcorper ut eget diam. In volutpat iaculis nisl, et 
-						ornare augue porta eu. Maecenas quam ante, tempor sed lacinia vel, interdum sed erat. Vivamus non diam nunc. 
-						Nulla viverra purus in libero ornare, id bibendum risus pretium. Phasellus eget hendrerit velit, at mollis 
-						tortor. Sed eget mi eu nunc laoreet blandit. Aliquam pellentesque arcu quis felis feugiat feugiat. Quisque 
-						tincidunt massa eget faucibus suscipit.
-					</p>
-				</div>
-	</div>
+	<nav class="navbar navbar-dark bg-inverse">
+		<div class="container">
+			<button class="navbar-toggler hidden-sm-up" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar2">
+				&#9776;
+			</button>
+			<div class="collapse navbar-toggleable-xs" id="exCollapsingNavbar2">
+				<ul class="nav navbar-nav pull-right">
+					<li class="nav-item">
+						<a class="nav-link" href="#content">Home <span class="sr-only">(current)</span></a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">Features</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">Pricing</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">About</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</nav>
 
 <!-- Bootstrap core JavaScript
 	================================================== -->
